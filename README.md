@@ -7,6 +7,7 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 ---
 
 ### 👩🏻‍💼 About Me
+#
 
 🔭 I’m currently working on a pomodoro focus tool called 'ReaDoro' short for readerspomodoro.<br/>
 🌱 I’m currently learning a refresh on React and UI/UX.<br/>
@@ -17,6 +18,7 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 ---
 
 ### 🧰 Languages and Tools
+#
 
 <img align="left" alt="html5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="css3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -30,7 +32,16 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 <img align="left" alt="unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />  
 <img align="left" alt="google" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />  
 <img align="left" alt="notion" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />          
-          
+
+<br/>
+
+---
+
+### 📲 Get in touch
+#
+
+Email:
+Linkedin:
 
 <!--
 **finahere/finahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
