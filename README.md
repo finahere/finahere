@@ -8,11 +8,11 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 
 ### 👩🏻‍💼 About Me
 
-🔭 I’m currently working on a pomodoro focus tool called 'ReaDoro' short for readerspomodoro.
-🌱 I’m currently learning a refresh on React and UI/UX.
-💬 Ask me about anything at all, i'll be sure to answer if I know.
-📫 Below are my socials if you'd like to connect, and reach out for collaborations
-⚡ Fun fact: I love reading and painting too!
+🔭 I’m currently working on a pomodoro focus tool called 'ReaDoro' short for readerspomodoro.<br/>
+🌱 I’m currently learning a refresh on React and UI/UX.<br/>
+💬 Ask me about anything at all, i'll be sure to answer if I know.<br/>
+📫 Below are my socials if you'd like to connect, and reach out for collaborations<br/>
+⚡ Fun fact: I love reading and painting too!<br/>
 
 ---
 
