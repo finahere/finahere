@@ -18,7 +18,9 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 <img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />          
           
+
 ---
+
 
 ### 👩🏻‍💼 About Me
 
