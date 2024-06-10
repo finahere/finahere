@@ -15,8 +15,6 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 📫 Below are my socials if you'd like to connect, and reach out for collaborations<br/>
 ⚡ Fun fact: I love reading and painting too!<br/>
 
----
-
 ## 🧰 Languages and Tools
 
 <img align="left" alt="html5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
