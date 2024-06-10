@@ -1,14 +1,14 @@
-## Syarafina Idris
+# Syarafina Idris
+**Digital Technologists (Developer/Designer/Content Management)**
 
 ![Main](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NoaW14cXE0a2JpZnM1cGk2cDE4azdtdWszZnBiMHFkNm5rMWU5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
-
-**Digital Technologists (Developer/Designer/Content Management)**
 
 I am a full-time Front-End developer and a UI/UX designer building my version of the digital world one step at a time. All projects are built from scratch, from planning and designing to development and it is still a work in progress with so much more to learn by experimenting and testing the different ways and methods of builds to code on. I am also interested in emerging technologies while focusing my passion on the basics of coding languages and this profile reflects the drive I have to create fun and practical applications for everyone at the same time highlight the stunning visuals and designs!
 
 ---
+<!--Also add github stats and most used languages stats here-->
 
-### 👩🏻‍💼 About Me
+## 👩🏻‍💼 About Me
 
 🔭 I’m currently working on a pomodoro focus tool called 'ReaDoro' short for readerspomodoro.<br/>
 🌱 I’m currently learning a refresh on React and UI/UX.<br/>
@@ -18,7 +18,7 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="html5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="css3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -31,18 +31,32 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 <img align="left" alt="bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
 <img align="left" alt="unity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />  
 <img align="left" alt="google" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />  
-<img align="left" alt="notion" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /><br/><br/>
+<img align="left" alt="notion" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /><br/><br/><br/>
 
 ---
 
-### 📲 Get in touch
+## 📲 Get in touch
 
-Email:
-Linkedin:
+Email: syarafina.03@gmail.com<br/>
+Linkedin: <a href="www.linkedin.com/in/syarafina-idris">Syarafina Idris</a><br/>
 
-> This is a blockquote
+> I think happiness should be like 
+> thistles and ragworts
+> Misery should be like
+> exotic orchids
 >
-> This is next line
+> from The Book of Goose by Yiyun Li
+
+---
+
+### Progress
+
+From the stats here, I am still working on getting it improved and to use Github often.
+
+![Syarafina GitHub stats](https://github-readme-stats.vercel.app/api?username=finahere&show_icons=true&theme=panda)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finahere&layout=compact)
+
+<!--Also add my published medium articles here -->
 
 <!--
 **finahere/finahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
