@@ -6,7 +6,6 @@
 I am a full-time Front-End developer and a UI/UX designer building my version of the digital world one step at a time. All projects are built from scratch, from planning and designing to development and it is still a work in progress with so much more to learn by experimenting and testing the different ways and methods of builds to code on. I am also interested in emerging technologies while focusing my passion on the basics of coding languages and this profile reflects the drive I have to create fun and practical applications for everyone at the same time highlight the stunning visuals and designs!
 
 ---
-<!--Also add github stats and most used languages stats here-->
 
 ## 👩🏻‍💼 About Me
 
@@ -38,20 +37,20 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 ## 📲 Get in touch
 
 Email: syarafina.03@gmail.com<br/>
-Linkedin: <a href="www.linkedin.com/in/syarafina-idris">Syarafina Idris</a><br/>
+Linkedin: [Syarafina Idris](www.linkedin.com/in/syarafina-idris)<br/>
 
-> I think happiness should be like 
-> thistles and ragworts
-> Misery should be like
-> exotic orchids
+> _I think happiness should be like_<br />
+> _thistles and ragworts_ <br />
+> _Misery should be like_ <br />
+> _exotic orchids_ <br />
 >
 > from The Book of Goose by Yiyun Li
 
 ---
 
-### Progress
+### 🎯 Progress
 
-From the stats here, I am still working on getting it improved and to use Github often.
+Personal Goal: **From the stats here, I am still working on getting it improved and to use Github often.**
 
 ![Syarafina GitHub stats](https://github-readme-stats.vercel.app/api?username=finahere&show_icons=true&theme=panda)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finahere&layout=compact)
