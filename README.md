@@ -6,6 +6,16 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 
 ---
 
+### 👩🏻‍💼 About Me
+
+🔭 I’m currently working on a pomodoro focus tool called 'ReaDoro' short for readerspomodoro.
+🌱 I’m currently learning a refresh on React and UI/UX.
+💬 Ask me about anything at all, i'll be sure to answer if I know.
+📫 Below are my socials if you'd like to connect, and reach out for collaborations
+⚡ Fun fact: I love reading and painting too!
+
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="html5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -21,15 +31,6 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 <img align="left" alt="google" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />  
 <img align="left" alt="notion" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />          
           
----
-
-### 👩🏻‍💼 About Me
-
-🔭 I’m currently working on a pomodoro focus tool called 'ReaDoro' short for readerspomodoro.
-🌱 I’m currently learning a refresh on React and UI/UX.
-💬 Ask me about anything at all, i'll be sure to answer if I know.
-📫 Below are my socials if you'd like to connect, and reach out for collaborations
-⚡ Fun fact: I love reading and painting too!
 
 <!--
 **finahere/finahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
