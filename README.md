@@ -1,4 +1,4 @@
-![Header](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlo72_COwxZBofspOEE4p1AjhOLhxiZv2mPxK9JGHgy3ecZy64)
+![Header](./headerbannerver2editednew.jpg)
 # Syarafina Idris
 **Digital Technologists (Developer/Designer/Content Management)**
 
