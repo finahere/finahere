@@ -33,7 +33,6 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 <img align="left" alt="google" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  />
 <img align="left" alt="notion" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /><br/><br/><br/>          
           
----
 
 ## 📲 Get in touch
 
@@ -47,7 +46,6 @@ Linkedin: [Syarafina Idris](www.linkedin.com/in/syarafina-idris)<br/>
 >
 > from The Book of Goose by Yiyun Li
 
----
 
 ## 🎯 Progress
 
