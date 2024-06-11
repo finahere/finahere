@@ -48,7 +48,7 @@ Linkedin: [Syarafina Idris](www.linkedin.com/in/syarafina-idris)<br/>
 Personal Goal: **From the stats here, I am still working on getting it improved and to use Github often.**
 
 ![Syarafina GitHub stats](https://github-readme-stats.vercel.app/api?username=finahere&show_icons=true&theme=panda)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finahere&layout=compact) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finahere&layout=compact)
 ![Main](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NoaW14cXE0a2JpZnM1cGk2cDE4azdtdWszZnBiMHFkNm5rMWU5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 <!--
