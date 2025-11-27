@@ -31,10 +31,6 @@ I am a full-time Front-End developer and a UI/UX designer building my version of
 
 
 <br />![Header](./github-header-image.png)
-## 📲 Get in touch
-
-Email: syarafina.03@gmail.com<br/>
-Linkedin: [Syarafina Idris](www.linkedin.com/in/syarafina-idris)<br/>
 
 > _I think happiness should be like_<br />
 > _thistles and ragworts_ <br />
