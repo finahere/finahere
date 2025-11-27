@@ -2,7 +2,7 @@
 # fina
 **Digital Technologists (Developer/Designer/Content Management)**
 
-I am a full-time Front-End developer and a UI/UX designer building my version of the digital world one step at a time. All projects are built from scratch, from planning and designing to development and it is still a work in progress with so much more to learn by experimenting and testing the different ways and methods of builds to code on. I am also interested in emerging technologies while focusing my passion on the basics of coding languages and this profile reflects the drive I have to create fun and practical applications for everyone at the same time highlight the stunning visuals and designs!
+I am a Front-End developer and Creative Technologist building my version of the digital world one step at a time. All projects are built from scratch, from planning and designing to development and it is still a work in progress with so much more to learn by experimenting and testing the different ways and methods of builds to code on. I am also interested in emerging technologies while focusing my passion on the basics of coding languages and this profile reflects the drive I have to create fun and practical applications for everyone at the same time highlight the stunning visuals and designs!
 
 ---
 
